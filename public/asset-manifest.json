@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9650d340.css",
+    "main.js": "/static/js/main.84cfd569.js",
+    "static/media/VarelaRound-Regular.otf": "/static/media/VarelaRound-Regular.6b0ad79431843e696f58.otf",
+    "static/media/liked-songs.png": "/static/media/liked-songs.4051e5f8e18b05da446e.png",
+    "static/media/CircularStd-Bold.otf": "/static/media/CircularStd-Bold.5c4514a8399ec0064b9b.otf",
+    "static/media/speaker-svgrepo-com.svg": "/static/media/speaker-svgrepo-com.553558812e64dc3d4c8bb6392fd7b3a4.svg",
+    "static/media/add-user-add-svgrepo-com.svg": "/static/media/add-user-add-svgrepo-com.c5151802467de447aa9a1080e651804c.svg",
+    "static/media/shuffle-svgrepo-com.svg": "/static/media/shuffle-svgrepo-com.a37271203fb89f3276ed34fffca35f5a.svg",
+    "static/media/repeat-svgrepo-com.svg": "/static/media/repeat-svgrepo-com.26d9fe61598378896cb7f4183caf9e87.svg",
+    "static/media/next-svgrepo-com.svg": "/static/media/next-svgrepo-com.56ba8568b70c0d4e28a6a9f106eb74b3.svg",
+    "static/media/microphone-svgrepo-com.svg": "/static/media/microphone-svgrepo-com.79485ef7a579f11d6e73c9c1f17dba62.svg",
+    "static/media/previous-svgrepo-com.svg": "/static/media/previous-svgrepo-com.afb80087cc4b8689bd56ba9a306b97ce.svg",
+    "static/media/pause-svgrepo-com.svg": "/static/media/pause-svgrepo-com.7eb12db002c451b8ebe8488e9bf892da.svg",
+    "static/media/play-svgrepo-com.svg": "/static/media/play-svgrepo-com.fb2c449812236c2f713ffee14cbd2595.svg",
+    "static/media/search-svgrepo-com.svg": "/static/media/search-svgrepo-com.f7a26ab2c1e6ae877b07de2d73c3ff06.svg",
+    "index.html": "/index.html",
+    "static/media/library-svgrepo-com.svg": "/static/media/library-svgrepo-com.99268c62b8126bcd3eba212611f32da5.svg",
+    "static/media/queue-duotone-svgrepo-com.svg": "/static/media/queue-duotone-svgrepo-com.9f00d1ed370ed3949fa312d1e74a8953.svg",
+    "static/media/volume-svgrepo-com.svg": "/static/media/volume-svgrepo-com.5cc18faa164f59b9557055a535aa0eff.svg",
+    "main.9650d340.css.map": "/static/css/main.9650d340.css.map",
+    "main.84cfd569.js.map": "/static/js/main.84cfd569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9650d340.css",
+    "static/js/main.84cfd569.js"
+  ]
+}
