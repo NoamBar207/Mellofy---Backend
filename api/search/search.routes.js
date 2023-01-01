@@ -4,7 +4,7 @@ const express = require('express')
 // const {addReview, getReviews, deleteReview} = require('./review.controller')
 const router = express.Router()
 // const {getStations, getStation, getUserStations, createStation} = require('./station.controller')
-const { search, addSongFromSearch, updateSong } = require('./search.controller')
+const { search, addSongFromSearch, updateSong, getSong } = require('./search.controller')
 
 
 // middleware that is specific to this router
@@ -17,6 +17,7 @@ const { search, addSongFromSearch, updateSong } = require('./search.controller')
 
 
 router.get('/:value', search)
+router.get('/videoId/:videoId', getSong)
 // router.get('/', getUserStations)
 // router.get('/:id', getStation)
 router.post('/', addSongFromSearch )

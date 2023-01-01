@@ -8,6 +8,7 @@ const dbService = require('../../services/db.service')
 
 module.exports = {
     search,
+    getSong,
     addSongFromSearch,
     updateSong
 }
@@ -16,11 +17,21 @@ module.exports = {
 async function search(req, res) {
     try {
         // const stations = await stationService.query(req.query)
-        // console.log(req.params.value)
         const songs = await searchService.query(req.params.value)
         res.send(songs)
     } catch (err) {
         logger.error('Cannot get station', err)
+        res.status(500).send({ err: 'Failed to get station' })
+    }
+}
+
+async function getSong(req, res) {
+    try {
+        console.log(req.params.videoId);
+        const song = await searchService.getById(req.params.videoId)
+        res.send(song)
+    } catch (err) {
+        logger.error('Failed to get station', err)
         res.status(500).send({ err: 'Failed to get station' })
     }
 }

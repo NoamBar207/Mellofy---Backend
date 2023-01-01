@@ -6,6 +6,7 @@ const asyncLocalStorage = require('../../services/als.service')
 
 module.exports = {
     query,
+    getById,
     add,
     update
 }
@@ -24,6 +25,17 @@ async function query(value) {
     } catch (err) {
         console.log(err);
         // logger.error('cannot find reviews', err)
+        throw err
+    }
+}
+
+async function getById(videoId){
+    try {
+        const collection = await dbService.getCollection('songs')
+        const song = await collection.findOne({ videoId: videoId })
+        return song
+    } catch (err) {
+        logger.error(`while finding song with videoId ${videoId}`, err)
         throw err
     }
 }
