@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf4f66cf.css",
-    "main.js": "/static/js/main.c85c6f34.js",
+    "main.css": "/static/css/main.c81b89b7.css",
+    "main.js": "/static/js/main.ff5777b4.js",
     "static/media/VarelaRound-Regular.otf": "/static/media/VarelaRound-Regular.6b0ad79431843e696f58.otf",
     "static/media/liked-songs.png": "/static/media/liked-songs.4051e5f8e18b05da446e.png",
     "static/media/CircularStd-Bold.otf": "/static/media/CircularStd-Bold.5c4514a8399ec0064b9b.otf",
@@ -19,11 +19,11 @@
     "static/media/library-svgrepo-com.svg": "/static/media/library-svgrepo-com.99268c62b8126bcd3eba212611f32da5.svg",
     "static/media/queue-duotone-svgrepo-com.svg": "/static/media/queue-duotone-svgrepo-com.9f00d1ed370ed3949fa312d1e74a8953.svg",
     "static/media/volume-svgrepo-com.svg": "/static/media/volume-svgrepo-com.5cc18faa164f59b9557055a535aa0eff.svg",
-    "main.bf4f66cf.css.map": "/static/css/main.bf4f66cf.css.map",
-    "main.c85c6f34.js.map": "/static/js/main.c85c6f34.js.map"
+    "main.c81b89b7.css.map": "/static/css/main.c81b89b7.css.map",
+    "main.ff5777b4.js.map": "/static/js/main.ff5777b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf4f66cf.css",
-    "static/js/main.c85c6f34.js"
+    "static/css/main.c81b89b7.css",
+    "static/js/main.ff5777b4.js"
   ]
 }
