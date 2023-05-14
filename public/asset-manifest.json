@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.389d20d4.css",
-    "main.js": "/static/js/main.3675459a.js",
+    "main.css": "/static/css/main.20d9c18c.css",
+    "main.js": "/static/js/main.26e4389a.js",
     "static/media/VarelaRound-Regular.otf": "/static/media/VarelaRound-Regular.6b0ad79431843e696f58.otf",
     "static/media/liked-songs.png": "/static/media/liked-songs.4051e5f8e18b05da446e.png",
     "static/media/CircularStd-Bold.otf": "/static/media/CircularStd-Bold.5c4514a8399ec0064b9b.otf",
@@ -16,14 +16,14 @@
     "static/media/play-svgrepo-com.svg": "/static/media/play-svgrepo-com.fb2c449812236c2f713ffee14cbd2595.svg",
     "static/media/search-svgrepo-com.svg": "/static/media/search-svgrepo-com.f7a26ab2c1e6ae877b07de2d73c3ff06.svg",
     "index.html": "/index.html",
-    "static/media/library-svgrepo-com.svg": "/static/media/library-svgrepo-com.99268c62b8126bcd3eba212611f32da5.svg",
-    "static/media/queue-duotone-svgrepo-com.svg": "/static/media/queue-duotone-svgrepo-com.9f00d1ed370ed3949fa312d1e74a8953.svg",
-    "static/media/volume-svgrepo-com.svg": "/static/media/volume-svgrepo-com.5cc18faa164f59b9557055a535aa0eff.svg",
-    "main.389d20d4.css.map": "/static/css/main.389d20d4.css.map",
-    "main.3675459a.js.map": "/static/js/main.3675459a.js.map"
+    "static/media/library-svgrepo-com.svg": "/static/media/library-svgrepo-com.92558bf23e373ff878afba78f4e37eba.svg",
+    "static/media/queue-duotone-svgrepo-com.svg": "/static/media/queue-duotone-svgrepo-com.47f738d10890495758a412b79297de7d.svg",
+    "static/media/volume-svgrepo-com.svg": "/static/media/volume-svgrepo-com.dcbc1421e753297e04c5b4778f1e1e6a.svg",
+    "main.20d9c18c.css.map": "/static/css/main.20d9c18c.css.map",
+    "main.26e4389a.js.map": "/static/js/main.26e4389a.js.map"
   },
   "entrypoints": [
-    "static/css/main.389d20d4.css",
-    "static/js/main.3675459a.js"
+    "static/css/main.20d9c18c.css",
+    "static/js/main.26e4389a.js"
   ]
 }
