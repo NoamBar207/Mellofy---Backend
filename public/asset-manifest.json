@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4d1a1434.css",
-    "main.js": "/static/js/main.c1d36482.js",
+    "main.js": "/static/js/main.64a32142.js",
     "static/media/VarelaRound-Regular.otf": "/static/media/VarelaRound-Regular.6b0ad79431843e696f58.otf",
     "static/media/liked-songs.png": "/static/media/liked-songs.4051e5f8e18b05da446e.png",
     "static/media/CircularStd-Bold.otf": "/static/media/CircularStd-Bold.5c4514a8399ec0064b9b.otf",
@@ -20,10 +20,10 @@
     "static/media/queue-duotone-svgrepo-com.svg": "/static/media/queue-duotone-svgrepo-com.47f738d10890495758a412b79297de7d.svg",
     "static/media/volume-svgrepo-com.svg": "/static/media/volume-svgrepo-com.dcbc1421e753297e04c5b4778f1e1e6a.svg",
     "main.4d1a1434.css.map": "/static/css/main.4d1a1434.css.map",
-    "main.c1d36482.js.map": "/static/js/main.c1d36482.js.map"
+    "main.64a32142.js.map": "/static/js/main.64a32142.js.map"
   },
   "entrypoints": [
     "static/css/main.4d1a1434.css",
-    "static/js/main.c1d36482.js"
+    "static/js/main.64a32142.js"
   ]
 }
